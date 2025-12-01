@@ -1,7 +1,8 @@
 
 ## **SoyaBank Overview**
 
-**SoyaBank** is a **console-based banking management system** built using **Spring Boot** and **Java 21**. It provides essential banking functionalities for both **customers** and **administrators**, leveraging a **MySQL database** for persistent storage via **JDBC**.
+**SoyaBank** is a **console-based banking management system** built using **Spring Boot** and **Java 21**.
+It provides essential banking functionalities for both **customers** and **administrators**, leveraging a **MySQL database** for persistent storage via **JDBC**.
 
 ---
 
@@ -60,5 +61,7 @@ src/main/java/com/SoyaBank/
 
 ### **Summary**
 
-SoyaBank is a **fully functional console banking system** that separates **customer services** and **admin management**, uses **Spring Boot** for structure, **MySQL** for persistent storage, and **JDBC** for database interactions. Its modular design allows each banking operation to be handled by a dedicated service class, ensuring maintainability and scalability.
+SoyaBank is a **fully functional console banking system** that separates **customer services** and **admin management**,
+uses **Spring Boot** for structure, **MySQL** for persistent storage, and **JDBC** for database interactions.
+Its modular design allows each banking operation to be handled by a dedicated service class, ensuring maintainability and scalability.
 
